@@ -1,1 +1,1 @@
-# Simple-pok-dex-
+# Simple-pokdex-
