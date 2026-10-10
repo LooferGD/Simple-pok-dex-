@@ -1,0 +1,8 @@
+Data: PokéAPI pokemon_species_names.csv, English language ID 9; National Dex IDs 1–1025.
+Names source: https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_species_names.csv
+Artwork: PokeAPI/sprites official-artwork; Pokémon artwork © Nintendo / Creatures / GAME FREAK.
+Source: https://github.com/PokeAPI/sprites
+Image URL pattern: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/{id}.png
+Artwork downloaded from source, checked for alpha transparency, resized to maximum 256×256, encoded WebP quality 84.
+Local pokemon.json uses /pokemon/{id}.webp for copying artwork into public/pokemon.
+National Dex ordering verified against https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_dex_numbers.csv (pokedex_id=1); every species ID 1–1025 equals its National Dex number.
